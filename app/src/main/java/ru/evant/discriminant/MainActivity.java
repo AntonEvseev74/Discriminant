@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void init() {
-        tvResult = (TextView) findViewById(R.id.btnResult);
+        tvResult = (TextView) findViewById(R.id.tvResult);
         edA = (EditText) findViewById(R.id.edA);
         edB = (EditText) findViewById(R.id.edB);
         edC = (EditText) findViewById(R.id.edC);
