@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Дискриминант</string>
+    <string name="text_result">Результат</string>
+    <string name="calculate">Вычислить</string>
+</resources>
