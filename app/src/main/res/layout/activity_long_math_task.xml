@@ -8,21 +8,21 @@
     tools:context=".LongMathTaskActivity">
 
     <EditText
-        android:id="@+id/edInput"
+        android:id="@+id/edInputL"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="тут напишите математический пример"
+        android:hint="тут напишите пример"
         android:textSize="24sp"/>
 
     <TextView
-        android:id="@+id/tvResult"
+        android:id="@+id/tvResultL"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text_result"
         android:textSize="24sp"/>
 
     <Button
-        android:id="@+id/btnResult"
+        android:id="@+id/btnResultL"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/calculate"
